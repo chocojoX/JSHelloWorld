@@ -1,2 +1,0 @@
-# JSHelloWorld
-Created with CodeSandbox
